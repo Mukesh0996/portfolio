@@ -1,0 +1,8 @@
+
+.app {
+    background-color: var(--default-bg-colour);
+}
+.header  {
+
+    height: var(--nav-height);
+}
